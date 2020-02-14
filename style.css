@@ -1,0 +1,72 @@
+/* Colors and fonts */
+body {
+	background-color: #87CEEB;
+	color: black;
+	font-family: American Typewriter;
+	font-size: 16px
+}
+
+h1, h2, h3, a {
+	color: #db1a1a;
+}
+
+h1 {
+   font-family: 'Lato', sans-serif;
+   font-weight: 400;
+   letter-spacing: 10px;
+   font-size: 60px;
+}
+
+h2 {
+	font-family: American Typewriter;
+	font-size: 24px;
+	font-weight: bolder;
+}
+
+a {
+	text-decoration: none;	
+}
+
+a:hover {
+	color: black;
+}
+
+
+/* Custom design with class */
+.container {
+	width: 700px;
+	margin: 40px auto;
+}
+ 
+.card-blue {
+	background-color: #B1DBEC;
+	padding: 40px;
+	box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+	border-radius: 4px;
+	margin: 20px 0px;
+	text-align: center;
+}
+
+.img-circle {
+	border-radius: 50%;
+}
+
+.btn-red {
+	background-color: #db1a1a;
+	color: white;
+	padding: 15px 20px;
+	border-radius: 4px
+}
+
+/* Design adjustements id */
+
+#introduction p {
+	margin-bottom: 40px;
+}
+
+{
+}
+
+
+
+
